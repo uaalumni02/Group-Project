@@ -1,0 +1,55 @@
+#result {
+    background-color: orange;
+    width: 220px;
+    height: 80px;
+    border: solid 2px antiquewhite;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    padding-bottom: 85px;
+    margin-top: -100px;
+}
+#weather {
+    background-color: pink;
+    width: 220px;
+    height: 100px;
+    border: solid 2px antiquewhite;
+    padding-right: 10px;
+    float: right;
+    text-align: center;
+    margin-top: -125px;
+}
+#ticket {
+    background-color: yellow;
+    width: 50%;
+    
+    margin: auto;
+    border: solid 2px antiquewhite;
+    padding: 10px;
+    
+    
+}
+.footer { 
+ text-align: center;
+  height:140px;
+  font-family: sans-serif;
+  font-size: 18px;
+  background-color: red;
+}
+
+.container{
+	background-color: red;
+}
+
+#teamInfo{
+	
+        width:100%;
+        text-align:center;
+background-color:red;
+
+
+}
+
+.body{
+	background-color: silver;
+}
